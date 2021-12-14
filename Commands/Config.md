@@ -1,4 +1,4 @@
-#git config
+# git config
 
 When first setting up git, you'll need to work with the git config commands in order to set up your identity.
 
@@ -13,7 +13,7 @@ For more information, view the [first time git setup](https://git-scm.com/book/e
 
 ##Resources
 
--[Git ConfigDocumentation](https://git-scm.com/docs/git-config)
+- [Git ConfigDocumentation](https://git-scm.com/docs/git-config)
 
 ---
 
