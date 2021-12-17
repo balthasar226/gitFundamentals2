@@ -2,7 +2,11 @@
 
 When working with git, a **remote** is any git repository that is not on the machine you're working on. The counterpart to this is  **local**, or the machine that is being developed on.
 
+<<<<<<< HEAD
 Take GitHub for example. While git is the technology that allows you to create local repositories, GitHub is the site that will host your remote repositories. Once stored remotely, you can bring that repository back down or share it with others.
+=======
+Take GitHub for example. While git is the technology that allows you you to create local repositories, GitHub is the site that will host your remote repositories. Once stored remotely, you can bring that repository back down or share it with others.
+>>>>>>> e81b46c89d25e2df8d6e067f963e3e74a8e285d7
 
 **Note**: While the repositories (local and remote) are related and track the same project, they can have different states if changes are not shared between the two. 
 
